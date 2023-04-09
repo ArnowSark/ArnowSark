@@ -10,10 +10,14 @@
 - 💬 Ask me about **games, Unity.** 
 - 📫 How to reach me: arnabsarkar0803@gmail.com
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ar05s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnab sarkar" height="30" width="40" /></a>
 <a href="https://instagram.com/arnow_sark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arnow_sark" height="30" width="40" /></a>
+</p>
+<h3 align="left">Play my games:</h3>
+<p align="left">
+  <a href="https://arnowsark.itch.io/"><img src="https://pbs.twimg.com/profile_images/1212846124945428480/w1htiJ0v_400x400.png" style="width:40px;height:40px;"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
