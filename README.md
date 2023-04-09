@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnowsark&label=Profile%20views&color=0e75b6&style=flat" alt="arnowsark" /> </p>
 
 - 🔭 I’m currently in my fourth year of computer science engineering.
-- 🌱 I’m currently learning Game development.
-- 👯 I’m looking to collaborate on Games and Different Game Jams.
-- 🤔 . I’m looking for a Junior Game developer position or Internship to help me improve my skills and pursue my passion for Game design.
+- 🌱 learning Game development, Unity, AR.
+- 👯 Ready to collaborate on Games and Different Game Jams.
+- 🤔 Also I’m looking for a Junior Game developer position or Internship to help me improve my skills and pursue my passion for Game design.
 - 💬 Ask me about **games, Unity.** 
 - 📫 How to reach me: arnabsarkar0803@gmail.com
 
