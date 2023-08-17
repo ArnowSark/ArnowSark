@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arnab Sarkar</h1>
-<h3 align="center">A passionate Game developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnowsark&label=Profile%20views&color=0e75b6&style=flat" alt="arnowsark" /> </p>
 
-- 🔭 I’m currently in my fourth year of computer science engineering.
-- 🌱 learning Game development, Unity, AR.
-- 👯 Ready to collaborate on Games and Different Game Jams.
-- 🤔 Also I’m looking for a Junior Game developer position or Internship to help me improve my skills and pursue my passion for Game design.
-- 💬 Ask me about **games, Unity.** 
+- 🔭 I currently Completed my Graduation, Bachelor of Technology in Computer Science & Engineering.
+- 🌱 learning Software developement, Software testing, UI developement, UI design.
+- 🤔 Also I’m looking for a Job or Junior Software Engineer position or Internship to enter in the Industry. 
 - 📫 How to reach me: arnabsarkar0803@gmail.com
 
 <!--<h3 align="left">Find me:</h3>
